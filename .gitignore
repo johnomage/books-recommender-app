@@ -4,3 +4,5 @@ datastore
 Procfile
 setup.sh
 src/
+LICENSE
+setup.py
