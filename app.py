@@ -2,7 +2,6 @@
 import streamlit as st
 import numpy as np
 from joblib import load
-from difflib import get_close_matches
 
 # recommend_books('Harry Potter and the Chamber of Secrets (Book 2)')
 
