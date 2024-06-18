@@ -7,6 +7,7 @@ from difflib import get_close_matches
 # recommend_books('Harry Potter and the Chamber of Secrets (Book 2)')
 
 st.header('Books Recommender App')
+st.markdown('### This app helps you to find books similar to your interest.')
 
 # Load the artifacts
 model = load('artifacts/model.pkl')
