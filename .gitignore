@@ -7,3 +7,4 @@ src/
 LICENSE
 setup.py
 artifacts
+.gitignore
